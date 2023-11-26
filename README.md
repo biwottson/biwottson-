@@ -1,15 +1,15 @@
 <h1 align="center">👨‍💻 Hi, I'm Emmanuel</h1>
 <h3 align="center">Ethical Hacker | Cyber Security Specialist | Penetration Tester</h3>
 
-- 🔭 Currently working on **Cyber Security Projects**
+- 🔭 Currently working on **Securing the Digital World**
 
-- 🌱 Learning and mastering **Python for Security**
+- 🌱 Learning and mastering **Python for Advanced Security Techniques**
 
-- 👯 Open to collaborate on **Ethical Hacking and Security Research**
+- 👯 Open to collaborate on **Ethical Hacking and cutting-edge Security Research**
 
-- 🤝 Looking for help with **Advanced Cyber Security Techniques**
+- 🤝 Seeking help with **Pushing the Boundaries of Cyber Security**
 
-- 💬 Ask me about **Penetration Testing, Forensics, and Cyber Security**
+- 💬 Ask me about **Penetration Testing, Digital Forensics, and Cyber Security Strategies**
 
 - 📫 How to reach me: [biwottson007@gmail.com](mailto:biwottson007@gmail.com)
 
@@ -30,4 +30,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <!-- Add more languages and tools relevant to your profile -->
+</p>
+
+<h3 align="left">Hack the Planet:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerone/hackerone-original.svg" alt="hackerone" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="metasploit" width="40" height="40"/>
+  <!-- Add more hacking tools/icons as needed -->
 </p>
